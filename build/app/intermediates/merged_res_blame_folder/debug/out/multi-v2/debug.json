@@ -318,6 +318,25 @@
                     }
                 },
                 {
+                    "source": "D:\\code\\HERO\\HERO\\android\\app\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "3,14",
+                        "startColumns": "4,4",
+                        "startOffsets": "176,832",
+                        "endLines": "7,16",
+                        "endColumns": "12,12",
+                        "endOffsets": "483,998"
+                    },
+                    "to": {
+                        "startLines": "121,125",
+                        "startColumns": "4,4",
+                        "startOffsets": "8627,8808",
+                        "endLines": "124,127",
+                        "endColumns": "12,12",
+                        "endOffsets": "8803,8972"
+                    }
+                },
+                {
                     "source": "C:\\Users\\kent\\.gradle\\caches\\transforms-3\\dee59bb480020f42d53c2ea15e4501f7\\transformed\\jetified-window-1.0.0-beta04\\res\\values\\values.xml",
                     "from": {
                         "startLines": "2,7,8,9,10,11,19,23,34,51",
@@ -406,25 +425,6 @@
                         "endLines": "335",
                         "endColumns": "20",
                         "endOffsets": "15782"
-                    }
-                },
-                {
-                    "source": "D:\\code\\hero_demo\\android\\app\\src\\main\\res\\values\\styles.xml",
-                    "from": {
-                        "startLines": "3,14",
-                        "startColumns": "4,4",
-                        "startOffsets": "176,832",
-                        "endLines": "7,16",
-                        "endColumns": "12,12",
-                        "endOffsets": "483,998"
-                    },
-                    "to": {
-                        "startLines": "121,125",
-                        "startColumns": "4,4",
-                        "startOffsets": "8627,8808",
-                        "endLines": "124,127",
-                        "endColumns": "12,12",
-                        "endOffsets": "8803,8972"
                     }
                 }
             ]
@@ -1807,7 +1807,7 @@
             "outputFile": "com.example.hero_demo.app-merged_res-15:/values-night-v8_values-night-v8.arsc.flat",
             "map": [
                 {
-                    "source": "D:\\code\\hero_demo\\android\\app\\src\\main\\res\\values-night\\styles.xml",
+                    "source": "D:\\code\\HERO\\HERO\\android\\app\\src\\main\\res\\values-night\\styles.xml",
                     "from": {
                         "startLines": "3,14",
                         "startColumns": "4,4",
